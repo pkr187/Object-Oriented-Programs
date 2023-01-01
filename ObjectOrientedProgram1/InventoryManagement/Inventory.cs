@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObjectOrientedPrograms.InventoryManagement
+namespace ObjectOrientedProgram1.InventoryManagement
 {
-    internal class Inventory
+    public class Inventory
     {
         List<InventoryDetails> details = new List<InventoryDetails>();
 
@@ -26,5 +26,3 @@ namespace ObjectOrientedPrograms.InventoryManagement
         }
     }
 }
-
-

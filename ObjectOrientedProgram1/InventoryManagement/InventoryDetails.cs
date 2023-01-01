@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObjectOrientedPrograms.InventoryManagement
+namespace ObjectOrientedProgram1.InventoryManagement
 {
     public class InventoryDetails
     {
@@ -13,5 +13,3 @@ namespace ObjectOrientedPrograms.InventoryManagement
         public int price { get; set; }
     }
 }
-    
-
